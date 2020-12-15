@@ -1,4 +1,4 @@
-## Machine Learning & Deep Learning Curriculum
+## Machine Learning & Deep Learning Curriculum Pk
 
 Loose path:
 1. Math
